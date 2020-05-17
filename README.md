@@ -1,2 +1,2 @@
 # JavaLearning
-Pallidor's Programming Party
+Pallidor's Programming PartAY
